@@ -1,0 +1,7 @@
+ body {
+                 background: white;
+                 } 
+h1, h2, div.class5, blockquote { background: lightgreen; border: 3px ridge black; outline: 2px inset gray; color: purple}
+p {
+    border: 2px dotted ;
+} 
