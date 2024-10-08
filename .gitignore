@@ -1,0 +1,52 @@
+# Node modules (if using npm for dependencies or build tools)
+node_modules/
+
+# Log files
+*.log
+
+# MacOS system files
+.DS_Store
+
+# Linux system files
+*.swp
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# npm and yarn lockfiles
+package-lock.json
+yarn.lock
+
+# Sass/CSS preprocessors (if applicable)
+.sass-cache/
+*.scssc
+
+# Cache and build output directories
+dist/
+build/
+.cache/
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+
+# Backup files from editors
+*.~*
+*.bak
+*.swp
+*.swo
+
+# Compiled CSS files (if using pre-processing tools like Sass or Less)
+*.css.map
+*.min.css
+
+# Environment variables (if applicable)
+.env
