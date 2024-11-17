@@ -23,3 +23,4 @@ jobs:
             } else {
               console.log(`PR title "${title}" is valid.`);
             }
+              
